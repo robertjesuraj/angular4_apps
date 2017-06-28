@@ -1,0 +1,16 @@
+install angualar4 js using https://angular.io/docs/ts/latest/cli-quickstart.html
+
+
+run this code
+=======================================
+method1
+
+ng serve
+open browser  http://localhost:4200
+-----------------------------------------------------------------------------
+method2
+ng build
+python rest.py
+----------------------------------------------------------------------------
+method3
+npm start
